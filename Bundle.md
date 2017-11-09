@@ -1,0 +1,11 @@
+jshint.vim
+nerdtree
+syntastic
+vim-airline-themes
+vim-jsbeautify
+closetag.vim
+nerdcommenter
+supertab
+vim-airline
+vim-fugitive
+vim-plugin-for-drupal
